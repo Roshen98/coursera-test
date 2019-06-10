@@ -1,6 +1,6 @@
 (function (window) {
 
-	var goodbye = {};
+var goodbye = {};
 
 goodbye.speak = function (name) {
 
