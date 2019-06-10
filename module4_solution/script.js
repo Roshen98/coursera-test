@@ -9,11 +9,11 @@
 
     	if (Initial_letter == 'j') {
 
-          goodbye.speak(names[name]);} 
+          byeSpeaker.speak(names[name]);} 
 
         else {
 
-    	  hello.speak(names[name]);
+    	  helloSpeaker.speak(names[name]);
   }
 }
 
